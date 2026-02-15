@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Tharun! 👋
 
-<!--
-**Tharun123q/Tharun123q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **3rd-year B.Tech Information Technology student** at Vel’s Institute, Chennai. I am a passionate developer who enjoys building clean, functional web interfaces and exploring the backbone of the internet.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 **Expertise:** I have a deep command of **HTML5 and CSS3** for crafting responsive front-end designs.
+- 🐍 **Currently Leveling Up:** Strengthening my **Python** skills and diving into **JavaScript**.
+- 🌐 **IT Fundamentals:** Interested in **Computer Networking (TCP/IP)** and **Database Management (SQL)**.
+- 🛠️ **Workflow:** I leverage AI-assisted development tools (ChatGPT/Gemini) to build efficient and optimized code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Project: SILA
+**SILA** is a Python-based interface designed to help the hearing-impaired. 
+- Created a recognition system for the A-Z alphabet and daily phrases.
+- Focused on logical flow and user-friendly interface design.
+- Built using Python, VS Code, and GitHub for version control.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML, CSS, Python, SQL (Intermediate), JavaScript (Learning).
+- **Tools:** VS Code, Git, GitHub, Linux.
+- **Networking:** TCP/IP, Router/Switch Configuration, Modems.
+
+### 📈 GitHub Stats
+![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+
+---
+
+### 📫 Reach Me:
+- **Email:** tharuntvcare@gmail.com
+- **LinkedIn:** [linkedin.com/in/tharun123q](https://www.linkedin.com/in/tharun123q)
