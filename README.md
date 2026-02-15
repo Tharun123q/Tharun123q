@@ -19,9 +19,6 @@ I am a **3rd-year B.Tech Information Technology student** at Vel’s Institute, 
 - **Tools:** VS Code, Git, GitHub, Linux.
 - **Networking:** TCP/IP, Router/Switch Configuration, Modems.
 
-### 📈 GitHub Stats
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharun123q&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Reach Me:
