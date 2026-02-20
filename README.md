@@ -1,7 +1,6 @@
 # Hi there, I'm Tharun! 👋
 
-I am a **3rd-year B.Tech Information Technology student** at Vel’s Institute, Chennai. I am a passionate developer who enjoys building clean, functional web interfaces and exploring the backbone of the internet.
-
+**3rd-year B.Tech Information Technology student** at Vels University, Chennai. Focused developer with an interest in building clean, functional web interfaces and exploring the backbone of the internet.
 ### 🚀 About Me
 - 💻 **Expertise:** I have a deep command of **HTML5 and CSS3** for crafting responsive front-end designs.
 - 🐍 **Currently Leveling Up:** Strengthening my **Python** skills and diving into **JavaScript**.
